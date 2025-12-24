@@ -1,0 +1,7 @@
+{
+  "name": "FoodieDash",
+  "description": "A premium, mobile-first food delivery experience with direct WhatsApp ordering and high-end Zomato-inspired aesthetics.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
