@@ -1,7 +1,8 @@
 
-import { MenuItem } from './types';
+import { MenuItem } from './types.ts';
 
-export const MERCHANT_PHONE = "9259853515";
+// Standardized international format for WhatsApp links
+export const MERCHANT_PHONE = "919259853515"; 
 export const MERCHANT_UPI = "7983073238@ptyes";
 export const PLATFORM_FEE = 5;
 
